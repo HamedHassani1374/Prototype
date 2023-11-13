@@ -1,0 +1,14 @@
+D:\Repos\Prototype\Model\bin\Debug\net7.0\Prototype.Model.deps.json
+D:\Repos\Prototype\Model\bin\Debug\net7.0\Prototype.Model.runtimeconfig.json
+D:\Repos\Prototype\Model\bin\Debug\net7.0\Prototype.Model.dll
+D:\Repos\Prototype\Model\bin\Debug\net7.0\Prototype.Model.pdb
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.AssemblyInfo.cs
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.dll
+D:\Repos\Prototype\Model\obj\Debug\net7.0\refint\Prototype.Model.dll
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.pdb
+D:\Repos\Prototype\Model\obj\Debug\net7.0\Prototype.Model.genruntimeconfig.cache
+D:\Repos\Prototype\Model\obj\Debug\net7.0\ref\Prototype.Model.dll

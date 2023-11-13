@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj",
-      "projectName": "Log",
-      "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj",
+      "projectUniqueName": "D:\\Repos\\Prototype\\Log\\Prototype.Log.csproj",
+      "projectName": "Prototype.Log",
+      "projectPath": "D:\\Repos\\Prototype\\Log\\Prototype.Log.csproj",
       "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\obj\\",
+      "outputPath": "D:\\Repos\\Prototype\\Log\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj": {}
+    "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
+    "D:\\Repos\\Prototype\\Model\\PrototypeModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
-        "projectName": "Model",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Model\\PrototypeModel.csproj",
+        "projectName": "PrototypeModel",
+        "projectPath": "D:\\Repos\\Prototype\\Model\\PrototypeModel.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj": {
+    "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -117,8 +117,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj"
+              "D:\\Repos\\Prototype\\Model\\PrototypeModel.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Model\\PrototypeModel.csproj"
               }
             }
           }

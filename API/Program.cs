@@ -1,9 +1,7 @@
-using API.APIs;
-using API;
-using Carter;
-using Persistance.JWTServices;
-using Repository;
-using Services.UserAuth;
+using Prototype.API.APIs;
+using Prototype.API;
+using Prototype.Persistance.JWTServices;
+using Prototype.Repository;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
@@ -21,9 +19,9 @@ builder.Services.Configure<JwtSettings>(Configuration.GetSection(nameof(JwtSetti
 builder.Services.RegisterServices();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-//builder.Services.AddCarter();
 
-builder.Services.AddDbContext<ModelContext>(x => x.UseSqlServer(config.Build().GetConnectionString("ServiceConnection") ,
+builder.Services.AddDbContext<ModelContext>(x => x.UseLazyLoadingProxies()
+                                            .UseSqlServer(config.Build().GetConnectionString("ServiceConnection"),
                                                                                     o => o.CommandTimeout(1000)));
 #region Configure Serilog
 var serlogconfig = new ConfigurationBuilder()
@@ -46,7 +44,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseAuthentication();
 app.UseHttpsRedirection();
-//app.MapCarter();
 app.AddUserAuthEndPoint();
 app.UseSerilogRequestLogging();
 

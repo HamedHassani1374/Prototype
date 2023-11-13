@@ -1,11 +1,10 @@
 ﻿using AutoWrapper.Wrappers;
-using Carter;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Model.DTOs.Request.User;
-using Services.UserAuth;
+using Prototype.Model.DTOs.Request.User;
+using Prototype.Services.UserAuth;
 
-namespace API.APIs
+namespace Prototype.API.APIs
 {
     public static class UserAuth
     {

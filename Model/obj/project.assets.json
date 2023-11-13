@@ -2937,11 +2937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
-      "projectName": "Model",
-      "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\Repos\\Prototype\\Model\\Prototype.Model.csproj",
+      "projectName": "Prototype.Model",
+      "projectPath": "D:\\Repos\\Prototype\\Model\\Prototype.Model.csproj",
       "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\obj\\",
+      "outputPath": "D:\\Repos\\Prototype\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

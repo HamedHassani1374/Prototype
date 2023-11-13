@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {}
+    "D:\\Repos\\Prototype\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
+    "D:\\Repos\\Prototype\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

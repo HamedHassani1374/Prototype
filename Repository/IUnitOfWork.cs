@@ -1,6 +1,6 @@
 ﻿
 
-namespace Repository
+namespace Prototype.Repository
 {
     public interface IUnitOfWork : IDisposable
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.DTOs.Request
+namespace Prototype.Model.DTOs.Request
 {
     public class BaseRequest<T>
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.DTOs.Response
+namespace Prototype.Model.DTOs.Response
 {
     public class BaseResponse<T>
     {

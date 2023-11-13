@@ -1,9 +1,8 @@
-﻿using Model.DTOs.Request;
-using Model.DTOs.Request.User;
-using Model.DTOs.Response;
-using Model.DTOs.Response.UserAuth;
+﻿using Prototype.Model.DTOs.Request.User;
+using Prototype.Model.DTOs.Response;
+using Prototype.Model.DTOs.Response.UserAuth;
 
-namespace Services.UserAuth
+namespace Prototype.Services.UserAuth
 {
     public interface IUserAuthService
     {

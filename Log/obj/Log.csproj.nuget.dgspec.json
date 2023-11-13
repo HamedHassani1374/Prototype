@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj": {}
+    "D:\\Repos\\Prototype\\Log\\Log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj": {
+    "D:\\Repos\\Prototype\\Log\\Log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Log\\Log.csproj",
         "projectName": "Log",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\Log.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Log\\Log.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Log\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Log\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

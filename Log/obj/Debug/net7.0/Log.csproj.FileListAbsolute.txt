@@ -22,3 +22,15 @@ C:\Users\Mh.Hassani\Desktop\DSKTP\Prototype\Log\obj\Debug\net7.0\Log.dll
 C:\Users\Mh.Hassani\Desktop\DSKTP\Prototype\Log\obj\Debug\net7.0\refint\Log.dll
 C:\Users\Mh.Hassani\Desktop\DSKTP\Prototype\Log\obj\Debug\net7.0\Log.pdb
 C:\Users\Mh.Hassani\Desktop\DSKTP\Prototype\Log\obj\Debug\net7.0\ref\Log.dll
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Log.deps.json
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Log.dll
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Log.pdb
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.AssemblyInfo.cs
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.dll
+D:\Repos\Prototype\Log\obj\Debug\net7.0\refint\Log.dll
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Log.pdb
+D:\Repos\Prototype\Log\obj\Debug\net7.0\ref\Log.dll

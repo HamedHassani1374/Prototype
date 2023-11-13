@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Model.Models;
+namespace Prototype.Model.Models;
 
 public partial class User : IBaseEntity
 {

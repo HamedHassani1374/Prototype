@@ -1,0 +1,15 @@
+D:\Repos\Prototype\Repository\bin\Debug\net7.0\Prototype.Repository.deps.json
+D:\Repos\Prototype\Repository\bin\Debug\net7.0\Prototype.Repository.dll
+D:\Repos\Prototype\Repository\bin\Debug\net7.0\Prototype.Repository.pdb
+D:\Repos\Prototype\Repository\bin\Debug\net7.0\Prototype.Model.dll
+D:\Repos\Prototype\Repository\bin\Debug\net7.0\Prototype.Model.pdb
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.AssemblyInfo.cs
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.csproj.CopyComplete
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.dll
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\refint\Prototype.Repository.dll
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\Prototype.Repository.pdb
+D:\Repos\Prototype\Repository\obj\Debug\net7.0\ref\Prototype.Repository.dll

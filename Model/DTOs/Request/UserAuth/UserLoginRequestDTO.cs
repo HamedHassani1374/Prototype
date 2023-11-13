@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.DTOs.Request.User
+namespace Prototype.Model.DTOs.Request.User
 {
     public class UserLoginRequestDTO
     {

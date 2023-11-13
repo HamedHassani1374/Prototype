@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using Persistance.JWTServices;
+using Prototype.Persistance.JWTServices;
 using System.Text;
-using Services.UserAuth;
-using Repository;
+using Prototype.Services.UserAuth;
+using Prototype.Repository;
+using AutoMapper;
+using Prototype.Persistance.Mapping;
 
-
-namespace API
+namespace Prototype.API
 {
     public static class RegisterServicesExtensions
     {
@@ -23,6 +24,16 @@ namespace API
             #region Repo
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             #endregion
+
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile(new MappingProfile());
+                cfg.AllowNullDestinationValues = false;
+            });
+
+            var mapper = config.CreateMapper();
+
+            services.AddSingleton(mapper);
             return services;
         }
 

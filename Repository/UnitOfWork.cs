@@ -1,5 +1,5 @@
 ﻿
-namespace Repository
+namespace Prototype.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {

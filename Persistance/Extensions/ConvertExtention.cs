@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistance.Extensions
+namespace Prototype.Persistance.Extensions
 {
     public static class ConvertExtention
     {

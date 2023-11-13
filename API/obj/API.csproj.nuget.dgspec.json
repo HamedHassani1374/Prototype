@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\API\\API.csproj": {}
+    "D:\\Repos\\Prototype\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\API\\API.csproj": {
+    "D:\\Repos\\Prototype\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\API\\API.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\API\\API.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\API\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -34,14 +34,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj"
+              "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj"
               },
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\Repository.csproj"
+              "D:\\Repos\\Prototype\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\Services.csproj"
+              "D:\\Repos\\Prototype\\Services\\Services.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Services\\Services.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
+    "D:\\Repos\\Prototype\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -200,14 +200,14 @@
         }
       }
     },
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj": {
+    "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -229,8 +229,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj"
+              "D:\\Repos\\Prototype\\Model\\Model.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Model\\Model.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\Repository.csproj": {
+    "D:\\Repos\\Prototype\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\Repository.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Repository\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -319,8 +319,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Model\\Model.csproj"
+              "D:\\Repos\\Prototype\\Model\\Model.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Model\\Model.csproj"
               }
             }
           }
@@ -340,6 +340,10 @@
               "version": "[1.2.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[7.0.13, )"
             }
@@ -364,14 +368,14 @@
         }
       }
     },
-    "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\Services.csproj": {
+    "D:\\Repos\\Prototype\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Repos\\Prototype\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\Services.csproj",
+        "projectPath": "D:\\Repos\\Prototype\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Mh.Hassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Services\\obj\\",
+        "outputPath": "D:\\Repos\\Prototype\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -393,8 +397,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj": {
-                "projectPath": "C:\\Users\\Mh.Hassani\\Desktop\\DSKTP\\Prototype\\Persistance\\Persistance.csproj"
+              "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj": {
+                "projectPath": "D:\\Repos\\Prototype\\Persistance\\Persistance.csproj"
               }
             }
           }

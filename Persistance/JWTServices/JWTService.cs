@@ -1,11 +1,11 @@
 ﻿using System.Text;
 using Microsoft.Extensions.Options;
-using Model.DTOs.Request.User;
+using Prototype.Model.DTOs.Request.User;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
-namespace Persistance.JWTServices
+namespace Prototype.Persistance.JWTServices
 {
     public class JWTService : IJWTService
     {

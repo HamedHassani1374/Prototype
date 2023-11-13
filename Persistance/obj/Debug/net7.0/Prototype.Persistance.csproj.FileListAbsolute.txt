@@ -1,0 +1,15 @@
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.AssemblyInfo.cs
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Persistance\bin\Debug\net7.0\Prototype.Persistance.deps.json
+D:\Repos\Prototype\Persistance\bin\Debug\net7.0\Prototype.Persistance.dll
+D:\Repos\Prototype\Persistance\bin\Debug\net7.0\Prototype.Persistance.pdb
+D:\Repos\Prototype\Persistance\bin\Debug\net7.0\Prototype.Model.dll
+D:\Repos\Prototype\Persistance\bin\Debug\net7.0\Prototype.Model.pdb
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.csproj.CopyComplete
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.dll
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\refint\Prototype.Persistance.dll
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\Prototype.Persistance.pdb
+D:\Repos\Prototype\Persistance\obj\Debug\net7.0\ref\Prototype.Persistance.dll

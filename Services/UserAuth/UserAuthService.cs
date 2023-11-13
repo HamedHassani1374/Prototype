@@ -1,18 +1,21 @@
-﻿using Microsoft.Extensions.Logging;
-using Model.DTOs.Request;
-using Model.DTOs.Request.User;
-using Model.DTOs.Response;
-using Model.DTOs.Response.UserAuth;
-using Persistance.JWTServices;
+﻿using AutoMapper;
+using Microsoft.Extensions.Logging;
+using Prototype.Model.DTOs.Request.User;
+using Prototype.Model.DTOs.Response;
+using Prototype.Model.DTOs.Response.UserAuth;
+using Prototype.Model.Models;
+using Prototype.Persistance.JWTServices;
 
-namespace Services.UserAuth
+namespace Prototype.Services.UserAuth
 {
     public class UserAuthService : IUserAuthService
     {
+        private readonly IMapper _mapper;
         private readonly IJWTService _jWTService;
         private readonly ILogger<UserAuthService> _logger;
-        public UserAuthService(IJWTService jWTService , ILogger<UserAuthService> logger)
+        public UserAuthService(IMapper mapper , IJWTService jWTService , ILogger<UserAuthService> logger)
         {
+            _mapper = mapper;
             _jWTService = jWTService;
             _logger = logger;
         }
@@ -23,6 +26,8 @@ namespace Services.UserAuth
 
             try
             {
+                var user = new User();
+
                 if (request.UserName == "admin" && request.Password == "Password123")
                 {
                     var userClaim = new UserClaimsRequestDTO
@@ -32,6 +37,8 @@ namespace Services.UserAuth
                         UserID = 1,
                         UserName = "admin"
                     };
+
+                    //response.Response = _mapper.Map<UserLoginResponseDTO>(user);
 
                     response.Response = new UserLoginResponseDTO
                     {

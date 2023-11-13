@@ -1,0 +1,17 @@
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.AssemblyInfo.cs
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Services.deps.json
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Services.dll
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Services.pdb
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Model.dll
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Persistance.dll
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Persistance.pdb
+D:\Repos\Prototype\Services\bin\Debug\net7.0\Prototype.Model.pdb
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.csproj.CopyComplete
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.dll
+D:\Repos\Prototype\Services\obj\Debug\net7.0\refint\Prototype.Services.dll
+D:\Repos\Prototype\Services\obj\Debug\net7.0\Prototype.Services.pdb
+D:\Repos\Prototype\Services\obj\Debug\net7.0\ref\Prototype.Services.dll

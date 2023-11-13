@@ -1,0 +1,12 @@
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Prototype.Log.deps.json
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Prototype.Log.dll
+D:\Repos\Prototype\Log\bin\Debug\net7.0\Prototype.Log.pdb
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.csproj.AssemblyReference.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.AssemblyInfoInputs.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.AssemblyInfo.cs
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.csproj.CoreCompileInputs.cache
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.dll
+D:\Repos\Prototype\Log\obj\Debug\net7.0\refint\Prototype.Log.dll
+D:\Repos\Prototype\Log\obj\Debug\net7.0\Prototype.Log.pdb
+D:\Repos\Prototype\Log\obj\Debug\net7.0\ref\Prototype.Log.dll
