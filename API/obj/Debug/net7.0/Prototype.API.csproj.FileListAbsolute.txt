@@ -19,9 +19,7 @@ D:\Repos\Prototype\API\bin\Debug\net7.0\AutoWrapper.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\AutoWrapper.Server.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\Azure.Core.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\Azure.Identity.dll
-D:\Repos\Prototype\API\bin\Debug\net7.0\Carter.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\Castle.Core.dll
-D:\Repos\Prototype\API\bin\Debug\net7.0\FluentValidation.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\LinqKit.Core.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Repos\Prototype\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
